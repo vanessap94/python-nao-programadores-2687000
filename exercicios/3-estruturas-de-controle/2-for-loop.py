@@ -1,5 +1,9 @@
 # Crie uma lista
-
+for item in range(7):
+  print(f'{item} - Estou aprendendo python.')
+else:
+  print('Fim do loop')
+  
 # Crie um for loop para imprimir cada elemento dessa lista
 
 
